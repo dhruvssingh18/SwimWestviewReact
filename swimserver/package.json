@@ -1,0 +1,16 @@
+{
+  "name": "westview-swim-team",
+  "version": "1.0.0",
+  "description": "Westview High School Swim Team Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

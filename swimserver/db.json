@@ -1,0 +1,177 @@
+{
+  "events": [
+    {
+      "name": "Jefferson",
+      "date": "2027-11-11",
+      "type": "meet",
+      "time": "",
+      "location": "",
+      "id": 200
+    },
+    {
+      "id": 1,
+      "name": "vs Jesuit HS — Girls",
+      "type": "meet",
+      "date": "2026-01-15",
+      "time": "16:00",
+      "location": "Beaverton Aquatic Center"
+    },
+    {
+      "id": 2,
+      "name": "vs Jesuit HS — Boys",
+      "type": "meet",
+      "date": "2026-01-15",
+      "time": "16:00",
+      "location": "Beaverton Aquatic Center"
+    },
+    {
+      "id": 3,
+      "name": "Regional Qualifiers",
+      "type": "meet",
+      "date": "2026-07-05",
+      "time": "08:00",
+      "location": "Metro Swim Complex"
+    }
+  ],
+  "times": [
+    {
+      "id": 1,
+      "name": "Jami Lee",
+      "gender": "girls",
+      "stroke": "Butterfly",
+      "dist": "100m",
+      "time": "64.16",
+      "date": "2026-01-15",
+      "pb": true
+    },
+    {
+      "id": 2,
+      "name": "Helen Jeong",
+      "gender": "girls",
+      "stroke": "Freestyle",
+      "dist": "100m",
+      "time": "62.96",
+      "date": "2026-01-15",
+      "pb": true
+    },
+    {
+      "id": 3,
+      "name": "Ethan Xu",
+      "gender": "boys",
+      "stroke": "Freestyle",
+      "dist": "50m",
+      "time": "25.49",
+      "date": "2026-01-15",
+      "pb": true
+    },
+    {
+      "id": 4,
+      "name": "Aidan Chang",
+      "gender": "boys",
+      "stroke": "Freestyle",
+      "dist": "200m",
+      "time": "122.95",
+      "date": "2026-01-15",
+      "pb": true
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Jami Lee",
+      "gender": "girls",
+      "grade": "11th",
+      "spec": "Butterfly",
+      "status": "active",
+      "best": "1:04.16",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "name": "Helen Jeong",
+      "gender": "girls",
+      "grade": "12th",
+      "spec": "Freestyle",
+      "status": "active",
+      "best": "1:02.96",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "name": "Naomi Lin",
+      "gender": "girls",
+      "grade": "11th",
+      "spec": "Breaststroke",
+      "status": "active",
+      "best": "1:12.95",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "name": "Ethan Xu",
+      "gender": "boys",
+      "grade": "11th",
+      "spec": "Freestyle",
+      "status": "active",
+      "best": "25.49s",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "name": "Aidan Chang",
+      "gender": "boys",
+      "grade": "9th",
+      "spec": "Freestyle",
+      "status": "active",
+      "best": "2:02.95",
+      "note": ""
+    }
+  ],
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Welcome to the 2026 Season!",
+      "text": "Practice begins Monday at 7:00 AM. Bring your registration forms.",
+      "from": "Coach Williams",
+      "date": "Jan 10, 2026"
+    },
+    {
+      "id": 2,
+      "title": "Jesuit Meet Results",
+      "text": "Westview Girls 81 pts, Boys 50 pts. Great work everyone!",
+      "from": "Coach Williams",
+      "date": "Jan 15, 2026"
+    }
+  ],
+  "calEvents": [
+    {
+      "id": 1,
+      "name": "Practice",
+      "type": "practice",
+      "date": "2026-06-16",
+      "note": "Sprint focus"
+    },
+    {
+      "id": 2,
+      "name": "Practice",
+      "type": "practice",
+      "date": "2026-06-18",
+      "note": "Endurance"
+    },
+    {
+      "id": 3,
+      "name": "Lap-a-thon",
+      "type": "lapathon",
+      "date": "2026-06-21",
+      "note": "Fundraiser"
+    },
+    {
+      "id": 4,
+      "name": "vs Jefferson",
+      "type": "meet",
+      "date": "2026-06-27",
+      "note": "Dual meet"
+    }
+  ],
+  "nextId": 201
+}
